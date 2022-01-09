@@ -2,7 +2,7 @@
 - 👀 I’m interestedin  programing 
 - 🌱 I’m currently learning  the basic 
 - 💞️ I’m looking to collaborate on  nothing
-- 📫 How to reach me Fabio Akita
+- 📫 How to reach me muniz.gdm@gmail.com
 
 <!---
 gdmuniz/gdmuniz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
